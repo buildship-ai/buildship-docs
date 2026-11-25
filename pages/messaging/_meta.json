@@ -2,7 +2,7 @@
   "whatsapp": "WhatsApp",
   "telegram-bot": {
     "title": "Telegram",
-    "href": "/trigger-nodes/telegram-bot"
+    "href": "/triggers-bots/telegram-bot"
   },
   "resend": "Resend",
   "mailchimp": "Mailchimp"

@@ -1,0 +1,30 @@
+# BuildShip
+
+> BuildShip is an AI-powered visual backend builder. Use it to ship APIs, scheduled jobs, chatbots, and backend workflows. Paid plans are Starter, Pro, Business, and Enterprise. Starter includes a 7-day trial and requires a card.
+
+Documentation: https://docs.buildship.com
+Pricing: https://buildship.com/pricing
+
+## Docs
+
+- [Introduction](https://docs.buildship.com/): What BuildShip is and how to get started
+- [Workflows](https://docs.buildship.com/workflows): Build and test workflows on the canvas
+- [Nodes](https://docs.buildship.com/nodes): Inputs, outputs, and logic nodes
+- [Triggers](https://docs.buildship.com/triggers): Start a workflow from an event, a schedule, or an API call
+- [REST API trigger](https://docs.buildship.com/triggers-rest-api/rest-api): Call a workflow over HTTP
+- [Scheduled cron trigger](https://docs.buildship.com/triggers-scheduled/scheduled-cron): Run a workflow on a cron schedule
+- [Rowy / Firestore trigger](https://docs.buildship.com/triggers-database/rowy-trigger): Run a workflow when a Firestore document is created, updated, or deleted
+- [Telegram bot](https://docs.buildship.com/triggers-bots/telegram-bot): Trigger a workflow from Telegram messages
+- [AI nodes](https://docs.buildship.com/ai-nodes): Generate custom nodes with AI
+- [Tools and agents](https://docs.buildship.com/tools): MCP tools for AI agents (Model Context Protocol)
+- [Claude Desktop MCP](https://docs.buildship.com/tools/claude): Connect a BuildShip tool to Claude Desktop
+- [Tutorials](https://docs.buildship.com/tutorials): Step-by-step guides
+- [BuildShip Database](https://docs.buildship.com/buildship-tables): Store data in the Firestore database that comes with a project
+- [Secrets](https://docs.buildship.com/secrets): API keys and Google Cloud Secret Manager
+- [Subscriptions and billing](https://docs.buildship.com/subscriptions-billing): Manage a plan, invoices, and receipts
+
+## Links
+
+- [BuildShip](https://buildship.com)
+- [Pricing](https://buildship.com/pricing)
+- [Discord](https://buildship.com/discord)

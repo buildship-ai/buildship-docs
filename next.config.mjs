@@ -53,8 +53,18 @@ export default withNextra({
       permanent: true,
     },
     {
-      source: '/:slug(rest-api|scheduled-cron|scheduled-interval|telegram-bot|rowy-trigger)',
+      source: '/:slug(rest-api|scheduled-cron|scheduled-interval|rowy-trigger)',
       destination: '/trigger-nodes/:slug',
+      permanent: true,
+    },
+    {
+      source: '/telegram-bot',
+      destination: '/triggers-bots/telegram-bot',
+      permanent: true,
+    },
+    {
+      source: '/trigger-nodes/telegram-bot',
+      destination: '/triggers-bots/telegram-bot',
       permanent: true,
     },
     {
