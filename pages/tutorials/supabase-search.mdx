@@ -192,7 +192,7 @@ ALTER TABLE documents ADD COLUMN embedding VECTOR(1536);
 
 ### Generate Embeddings
 
-- **Generate Embeddings with OpenAI:** Use the Buildship OpenAI Generate Embeddings Node to create embeddings for each
+- **Generate Embeddings with OpenAI:** Use the BuildShip OpenAI Generate Embeddings Node to create embeddings for each
   document's content.
 - **Retrieve Table Documents:** Use the Get Columns node to retrieve all the documents from the table with the specified
   columns. In this case, you only need the `id` and `content` of each row.

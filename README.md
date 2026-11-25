@@ -40,7 +40,7 @@ git clone https://github.com/your-username/buildship-docs.git
 ```bash
 cd buildship-docs
 
-git remote add upstream https://github.com/rowyio/buildship-docs.git
+git remote add upstream https://github.com/buildship-ai/buildship-docs.git
 
 git remote add origin https://github.com/your-username/buildship-docs.git
 ```
